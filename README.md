@@ -92,8 +92,13 @@ Windows Clients
 LinkedIn  
 https://www.linkedin.com/in/vidalrenao
 
-Portfolio  
-https://vidal-renao.github.io/website-demos/
+## Portfolio
+
+Professional profile  
+https://vidal-renao.github.io/profile
+
+Website demos  
+https://vidal-renao.github.io/website-demos
 
 ---
 
